@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "polio-wpv1-phylodynamics"
+version: "0.1.0"
+date-released: "2026-05-01"
+authors:
+  - family-names: "Haider"
+    given-names: "Syed Adnan"
+repository-code: "https://github.com/adnanhaider81/polio-wpv1-phylodynamics"
+license: "MIT"
+keywords:
+  - poliovirus
+  - WPV1
+  - phylogeography
+  - phylodynamics
+  - genomic epidemiology

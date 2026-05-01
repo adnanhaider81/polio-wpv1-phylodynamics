@@ -1,0 +1,13 @@
+project:
+  name: polio-wpv1-phylodynamics
+  version: 0.1.0
+
+inputs:
+  fasta: data/synthetic/synthetic_alignment.fasta
+  metadata: data/synthetic/synthetic_metadata.csv
+
+analysis:
+  region_scheme: region10
+  tree_mode: distance
+  simmap_replicates: 25
+  seed: 1

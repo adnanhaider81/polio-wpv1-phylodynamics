@@ -1,6 +1,7 @@
 # polio-wpv1-phylodynamics
 
 [![DOI](https://zenodo.org/badge/1226527658.svg)](https://zenodo.org/badge/latestdoi/1226527658)
+[![R demo](https://github.com/adnanhaider81/polio-wpv1-phylodynamics/actions/workflows/r-demo.yml/badge.svg)](https://github.com/adnanhaider81/polio-wpv1-phylodynamics/actions/workflows/r-demo.yml)
 
 Reproducible R workflow for exploratory WPV1 phylogeographic analysis. The repository includes code, documentation, and a small synthetic dataset so the pipeline can be tested without restricted surveillance data.
 
@@ -32,7 +33,7 @@ flowchart LR
 | Documentation | `docs/` plus README |
 | Data privacy note | Present; restricted sequences and line lists are excluded |
 | GitHub Actions badge | Present |
-| Container recipe | Planned |
+| Container recipe | `Dockerfile` |
 | Zenodo DOI | [10.5281/zenodo.20257428](https://doi.org/10.5281/zenodo.20257428) |
 
 ## What the pipeline does

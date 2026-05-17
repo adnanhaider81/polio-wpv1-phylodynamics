@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.1 - 2026-05-17
+
+- Prepared citation metadata for Zenodo archival.
+- Added the public portfolio README overview and workflow diagram.
+
 ## v0.1.0 - 2026-05-01
 
 - Initial public release of the WPV1 phylogeographic analysis template.

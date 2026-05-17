@@ -31,7 +31,7 @@ flowchart LR
 | Data privacy note | Present; restricted sequences and line lists are excluded |
 | GitHub Actions badge | Present |
 | Container recipe | Planned |
-| Zenodo DOI | Planned for archived stable release |
+| Zenodo DOI | Pending Zenodo archive for `v0.1.1` |
 
 ## What the pipeline does
 

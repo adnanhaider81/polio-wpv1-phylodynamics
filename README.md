@@ -1,5 +1,7 @@
 # polio-wpv1-phylodynamics
 
+[![DOI](https://zenodo.org/badge/1226527658.svg)](https://zenodo.org/badge/latestdoi/1226527658)
+
 Reproducible R workflow for exploratory WPV1 phylogeographic analysis. The repository includes code, documentation, and a small synthetic dataset so the pipeline can be tested without restricted surveillance data.
 
 No raw surveillance sequences, sample identifiers, or line-list metadata are included.
@@ -31,7 +33,7 @@ flowchart LR
 | Data privacy note | Present; restricted sequences and line lists are excluded |
 | GitHub Actions badge | Present |
 | Container recipe | Planned |
-| Zenodo DOI | Pending Zenodo archive for `v0.1.1` |
+| Zenodo DOI | [10.5281/zenodo.20257428](https://doi.org/10.5281/zenodo.20257428) |
 
 ## What the pipeline does
 
@@ -129,3 +131,11 @@ This repository is intended as a public methods template. Restricted sequence da
 ## Methods status
 
 This workflow is suitable for exploratory analysis and reproducible demonstration. Manuscript-grade phylodynamic inference should add temporal-signal testing, sampling-bias sensitivity analyses, model comparison, uncertainty checks, and an explicit data-use statement.
+
+## Citation
+
+Please cite the archived Zenodo release when using this workflow:
+
+Haider, S. A. (2026). polio-wpv1-phylodynamics (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.20257428
+
+The all-version Zenodo concept DOI is https://doi.org/10.5281/zenodo.20257427.

@@ -4,6 +4,35 @@ Reproducible R workflow for exploratory WPV1 phylogeographic analysis. The repos
 
 No raw surveillance sequences, sample identifiers, or line-list metadata are included.
 
+## Portfolio quick view
+
+This repository shows how VP1 sequence data and metadata can be turned into reproducible exploratory phylogeographic summaries: tree building, time scaling, stochastic character mapping, movement tables, lineage persistence summaries, and optional maps. The included synthetic data make the workflow reviewable without exposing restricted surveillance records.
+
+```mermaid
+flowchart LR
+  A["VP1 alignment"] --> B["Metadata QC"]
+  B --> C["Regional grouping"]
+  C --> D["Tree building"]
+  D --> E["Time scaling"]
+  E --> F["Ancestral-state mapping"]
+  F --> G["Movement summaries"]
+  G --> H["Tables and figures"]
+```
+
+## Public repository checklist
+
+| Item | Status |
+| --- | --- |
+| README, license, citation metadata | Present |
+| Reproducible environment | R install script and `DESCRIPTION` |
+| Tests or smoke checks | Synthetic demo run |
+| Example or synthetic data | `data/synthetic/` |
+| Documentation | `docs/` plus README |
+| Data privacy note | Present; restricted sequences and line lists are excluded |
+| GitHub Actions badge | Present |
+| Container recipe | Planned |
+| Zenodo DOI | Planned for archived stable release |
+
 ## What the pipeline does
 
 - Reads a VP1 FASTA alignment and sample metadata.

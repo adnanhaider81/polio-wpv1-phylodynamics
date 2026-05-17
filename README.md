@@ -123,6 +123,6 @@ This workflow is suitable for exploratory analysis and reproducible demonstratio
 
 Please cite the archived Zenodo release when using this workflow:
 
-Haider, S. A. (2026). polio-wpv1-phylodynamics (v0.1.2). Zenodo. https://doi.org/10.5281/zenodo.20257880
+Haider, S. A. (2026). WPV1 Phylodynamics and Phylogeography Workflow (v0.1.2). Zenodo. https://doi.org/10.5281/zenodo.20257880
 
 The all-version Zenodo concept DOI is https://doi.org/10.5281/zenodo.20257427.

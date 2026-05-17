@@ -1,6 +1,6 @@
 Package: polio.wpv1.phylodynamics
 Title: WPV1 Phylogeographic Analysis Template
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: person("Syed Adnan", "Haider", role = c("aut", "cre"))
 Description: Reproducible R scripts for exploratory WPV1 phylogeographic analysis using dated trees, stochastic character mapping, movement summaries, and lineage summaries. The public repository includes synthetic example data only.
 License: MIT

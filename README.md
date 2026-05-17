@@ -34,7 +34,7 @@ flowchart LR
 | Data privacy note | Present; restricted sequences and line lists are excluded |
 | GitHub Actions badge | Present |
 | Container recipe | `Dockerfile` |
-| Zenodo DOI | [10.5281/zenodo.20257428](https://doi.org/10.5281/zenodo.20257428) |
+| Zenodo DOI | Pending Zenodo archive for `v0.1.2` |
 
 ## What the pipeline does
 
@@ -137,6 +137,6 @@ This workflow is suitable for exploratory analysis and reproducible demonstratio
 
 Please cite the archived Zenodo release when using this workflow:
 
-Haider, S. A. (2026). polio-wpv1-phylodynamics (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.20257428
+Haider, S. A. (2026). polio-wpv1-phylodynamics (v0.1.2). Zenodo release DOI pending.
 
 The all-version Zenodo concept DOI is https://doi.org/10.5281/zenodo.20257427.

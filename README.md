@@ -1,4 +1,4 @@
-# polio-wpv1-phylodynamics
+# WPV1 Phylodynamics and Phylogeography Workflow
 
 [![DOI](https://zenodo.org/badge/1226527658.svg)](https://zenodo.org/badge/latestdoi/1226527658)
 [![R demo](https://github.com/adnanhaider81/polio-wpv1-phylodynamics/actions/workflows/r-demo.yml/badge.svg)](https://github.com/adnanhaider81/polio-wpv1-phylodynamics/actions/workflows/r-demo.yml)
@@ -7,7 +7,7 @@ Reproducible R workflow for exploratory WPV1 phylogeographic analysis. The repos
 
 No raw surveillance sequences, sample identifiers, or line-list metadata are included.
 
-## Portfolio quick view
+## Workflow overview
 
 This repository shows how VP1 sequence data and metadata can be turned into reproducible exploratory phylogeographic summaries: tree building, time scaling, stochastic character mapping, movement tables, lineage persistence summaries, and optional maps. The included synthetic data make the workflow reviewable without exposing restricted surveillance records.
 
@@ -21,20 +21,6 @@ flowchart LR
   F --> G["Movement summaries"]
   G --> H["Tables and figures"]
 ```
-
-## Public repository checklist
-
-| Item | Status |
-| --- | --- |
-| README, license, citation metadata | Present |
-| Reproducible environment | R install script and `DESCRIPTION` |
-| Tests or smoke checks | Synthetic demo run |
-| Example or synthetic data | `data/synthetic/` |
-| Documentation | `docs/` plus README |
-| Data privacy note | Present; restricted sequences and line lists are excluded |
-| GitHub Actions badge | Present |
-| Container recipe | `Dockerfile` |
-| Zenodo DOI | [10.5281/zenodo.20257880](https://doi.org/10.5281/zenodo.20257880) |
 
 ## What the pipeline does
 

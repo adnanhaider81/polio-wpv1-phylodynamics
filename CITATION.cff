@@ -9,6 +9,7 @@ authors:
   - family-names: "Haider"
     given-names: "Syed Adnan"
 repository-code: "https://github.com/adnanhaider81/polio-wpv1-phylodynamics"
+doi: "10.5281/zenodo.20257880"
 license: "MIT"
 keywords:
   - poliovirus

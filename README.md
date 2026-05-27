@@ -119,6 +119,10 @@ This repository is intended as a public methods template. Restricted sequence da
 
 This workflow is suitable for exploratory analysis and reproducible demonstration. Manuscript-grade phylodynamic inference should add temporal-signal testing, sampling-bias sensitivity analyses, model comparison, uncertainty checks, and an explicit data-use statement.
 
+## Data governance
+
+See [DATA_GOVERNANCE.md](DATA_GOVERNANCE.md) for public-data, restricted-data, and sample-identifier handling rules.
+
 ## Citation
 
 Please cite the archived Zenodo release when using this workflow:
